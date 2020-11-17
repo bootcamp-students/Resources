@@ -16,4 +16,4 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Becky Mead | [@rlmead](https://github.com/rlmead) | [also-and.web.app/](https://also-and.web.app/) |
 | Aaron Withers | [@alwith2](https://github.com/alwith2) | [alwith2.github.io](https://alwith2.github.io) |
 | Joe Passafiume | [@JoePass456](https://github.com/JoePass456) | [JoePass456.github.io](https://JoePass456.github.io/) |
-| Ryan Kelly | [@rmke223](https://github.com/Rmke223) | [rmke223.github.io](https://rmke223.github.io/) |
+| Ryan Kelly | [@rmke223](https://github.com/Rmke223) | [rmke223.github.io](https://react-blog-47114.web.app/) |
