@@ -5,3 +5,4 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Name | GitHub Profile | Portfolio |
 | --- | --- | --- |
 | Ian Rios | [@ianrios](https://github.com/ianrios) | [ianrios.me](https://ianrios.me/) |
+| Steven Littrell | [@sflittrell](https://github.com/sflittrell) | [slittrell.com](https://slittrell.com/) |
