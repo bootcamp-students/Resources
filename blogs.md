@@ -8,5 +8,5 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Steven Littrell | [@sflittrell](https://github.com/sflittrell) | [slittrell.com](https://slittrell.com/) |
 | Reece Walter | [@thereeceshow](https://github.com/thereeceshow) | [reecewalter.com](https://reecewalter.com) |
 | Eric Sparks | [@sparkseric90](https://github.com/sparkseric90) | [sparkseric90-6dd58.web.app](https://sparkseric90-6dd58.web.app/) |
-| Russell Wheeler | [@r83wheeler](https://github.com/r83wheeler) | [react-blog-1ea0f.web.app](https://russellwheeler.com) |
+| Russell Wheeler | [@r83wheeler](https://github.com/r83wheeler) | [russellwheeler.com](https://russellwheeler.com) |
 
