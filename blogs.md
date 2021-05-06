@@ -8,7 +8,6 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Justin Hall | [@jhalljhall](https://github.com/jhalljhall) | [justinhall.com](https://justinhall.com) |
 | Steven Littrell | [@sflittrell](https://github.com/sflittrell) | [slittrell.com](https://slittrell.com) |
 | Reece Walter | [@thereeceshow](https://github.com/thereeceshow) | [reecewalter.com](https://reecewalter.com) |
-| Eric Sparks | [@sparkseric90](https://github.com/sparkseric90) | [sparkseric90-6dd58.web.app](https://sparkseric90-6dd58.web.app/) |
 | Eric Sparks | [@sparkseric90](https://github.com/sparkseric90) | [sparkseric90-6dd58.web.app](https://sparkseric90-6dd58.web.app) |
 | Walter Saygers | [@wtsaygers1](https://github.com/wtsaygers1) | [waltsaygers.com](https://waltsaygers.com) |
 | Russell Wheeler | [@r83wheeler](https://github.com/r83wheeler) | [russellwheeler.com](https://russellwheeler.com) |
