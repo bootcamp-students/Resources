@@ -14,3 +14,4 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Russell Wheeler | [@r83wheeler](https://github.com/r83wheeler) | [russellwheeler.com](https://russellwheeler.com) |
 | Jimmy Zheng | [@jzhen123](https://github.com/Jzhen123) | [jimmyzheng.com](https://jimmyzheng.com) |
 | Harris Green | [@hmgreen44](https://github.com/hmgreen44) | [https://my-blog-bcf2f.web.app](https://my-blog-bcf2f.web.app) |
+| Smith Thay | [@smiththay](https://github.com/smiththay) | [smiththaysite.web.app/](https://smiththaysite.web.app/) |
