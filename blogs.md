@@ -16,3 +16,5 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Harris Green | [@hmgreen44](https://github.com/hmgreen44) | [https://my-blog-bcf2f.web.app](https://my-blog-bcf2f.web.app) |
 | Smith Thay | [@smiththay](https://github.com/smiththay) | [smiththaysite.web.app/](https://smiththaysite.web.app/) |
 | Rachel Ehlers | [@rachelehlers](https://github.com/cedar-waxwing) | [rwehlers.com](https://rwehlers.com) |
+| Marquise Piton| [@marquisepiton](https://github.com/marquisepiton) | [marquisepiton.com](https://blog-4282f.web.app/) |
+
