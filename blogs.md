@@ -9,7 +9,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Steven Littrell | [@sflittrell](https://github.com/sflittrell) | [slittrell.com](https://slittrell.com) |
 | Reece Walter | [@thereeceshow](https://github.com/thereeceshow) | [reecewalter.com](https://reecewalter.com) |
 | Jake Mannino | [@jake-mannino](https://github.com/jake-mannino) | [blog-37ee2.web.app](https://blog-37ee2.web.app) |
-| Eric Sparks | [@sparkseric90](https://github.com/sparkseric90) | [ericsparks.dev](https://ericsparks.dev) |
+| Eric Sparks | [@sparkseric90](https://github.com/sparkseric90) | [esparks.dev](https://ericsparks.dev) |
 | Walter Saygers | [@wtsaygers1](https://github.com/wtsaygers1) | [waltsaygers.com](https://waltsaygers.com) |
 | Russell Wheeler | [@r83wheeler](https://github.com/r83wheeler) | [russellwheeler.com](https://russellwheeler.com) |
 | Jimmy Zheng | [@jzhen123](https://github.com/Jzhen123) | [jimmyzheng.com](https://jimmyzheng.com) |
